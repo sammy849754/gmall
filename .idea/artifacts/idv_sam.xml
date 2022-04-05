@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="idv_sam">
+    <output-path>$PROJECT_DIR$/out/artifacts/idv_sam</output-path>
+    <root id="root" />
+  </artifact>
+</component>

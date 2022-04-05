@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/gmall.iml" filepath="$PROJECT_DIR$/.idea/gmall.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmall-0401-user-manage/gmall-0401-user-manage.iml" filepath="$PROJECT_DIR$/gmall-0401-user-manage/gmall-0401-user-manage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmall-parent/gmall-parent.iml" filepath="$PROJECT_DIR$/gmall-parent/gmall-parent.iml" />
+    </modules>
+  </component>
+</project>
